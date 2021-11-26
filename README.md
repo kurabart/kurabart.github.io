@@ -1,3 +1,1 @@
 # kurabart.github.io
-
-Witam
