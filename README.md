@@ -6,6 +6,8 @@ Panzerkampfwagen VIII Maus – czołg superciężki konstrukcji niemieckiej z ok
 
 Z łączną masą sięgającą 188 ton był to najcięższy i największy czołg, jaki kiedykolwiek skonstruowano, lecz nigdy nie wszedł do produkcji seryjnej, ani nie został użyty bojowo; Niemcy zbudowali jedynie dwa nieukończone prototypy.
 
+![Maus]maus.jpg
+
 
 ## Ciekawostka
 
