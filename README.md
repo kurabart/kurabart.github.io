@@ -1,4 +1,3 @@
-# Maus
 
 ## Opis ogólny
 
