@@ -1,4 +1,4 @@
-
+#Maus
 ## Opis ogólny
 
 Panzerkampfwagen VIII Maus – czołg superciężki konstrukcji niemieckiej z okresu II wojny światowej.
