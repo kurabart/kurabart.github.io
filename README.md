@@ -1,5 +1,8 @@
 # Wirtualny alkomat
 
+### Wstęp
+Z każdym nowym kierowcą rośnie zagrożenie poprzez spowodowanie wypadku. Wielu ludzi ma takie sytuacje przez warunki panujące na drodze, niepoprawne zachowanie się na drodze lub zmylenie innego kierowcy - przez co on spowoduje taki incydent. Jednak coraz więcej kierowców wsiada za kółka samochodu po alkoholu, co jest najgorszym co może zrobić, gdyż wtedy możliwość spowodowania wypadku jest bardzo wysoka. Z tego względu chciałbym was zaprosić do zapoznania się z projektem w którym uczestniczę - Wirtualny Alkomat.
+
 ### Opis ogólny
 Jest to aplikacja pozwalająca na zbadenie stanu trzeźwości w każym miejscu o każej porze.
 
